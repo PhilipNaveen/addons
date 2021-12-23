@@ -28,6 +28,7 @@ ALL_ACTIVATIONS = [
     "sparsemax",
     "tanhshrink",
     "snake",
+    "phish",
 ]
 
 
